@@ -1,4 +1,4 @@
-import config from "package-a/webpack-config/main";
+import config from "package-a/webpack.config.js";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 

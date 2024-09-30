@@ -1,8 +1,5 @@
 {
     "name": "package-b",
     "private": true,
-    "type": "module",
-    "exports": {
-        "./webpack-config/*": "./webpack-configs/*/config.js"
-    }
+    "type": "module"
 }
