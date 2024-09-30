@@ -2,7 +2,7 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "build": "node node_modules/webpack/bin/webpack.js",
+        "build": "node --preserve-symlinks node_modules/webpack/bin/webpack.js",
         "install": "node install.js"
     },
     "dependencies": {
