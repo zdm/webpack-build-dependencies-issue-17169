@@ -1,0 +1,8 @@
+{
+    "name": "package-a",
+    "private": true,
+    "type": "module",
+    "exports": {
+        "./webpack-config/*": "./webpack-configs/*/config.js"
+    }
+}
