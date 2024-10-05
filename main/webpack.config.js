@@ -1,6 +1,6 @@
-import config from "package-a/webpack.config.js";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import config from "package-a/webpack.config.js";
 
 export default {
     ...config,
