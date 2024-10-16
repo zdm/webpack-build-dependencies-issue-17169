@@ -1,5 +1,17 @@
 {
     "name": "package-a",
     "private": true,
+    "homepage": "https://github.com/zdm/webpack-build-dependencies-issue-17169",
+    "bugs": {
+        "url": "https://github.com/zdm/webpack-build-dependencies-issue-17169/issues",
+        "email": "root <root@softvisio.net>"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zdm/webpack-build-dependencies-issue-17169.git",
+        "directory": "package-a"
+    },
+    "license": "Proprietary Software",
+    "author": "root <root@softvisio.net>",
     "type": "module"
 }

@@ -1,14 +1,14 @@
 {
     "name": "@zdm/webpack-build-dependencies-issue-17169",
     "private": true,
-    "homepage": "https://github.com/zdm/webpack-bundle-analyzer-issue-471",
+    "homepage": "https://github.com/zdm/webpack-build-dependencies-issue-17169",
     "bugs": {
-        "url": "https://github.com/zdm/webpack-bundle-analyzer-issue-471/issues",
+        "url": "https://github.com/zdm/webpack-build-dependencies-issue-17169/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zdm/webpack-bundle-analyzer-issue-471.git"
+        "url": "git+https://github.com/zdm/webpack-build-dependencies-issue-17169.git"
     },
     "license": "Proprietary Software",
     "author": "root <root@softvisio.net>"
