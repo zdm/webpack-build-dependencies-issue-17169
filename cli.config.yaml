@@ -1,0 +1,6 @@
+private: true
+
+subPackages:
+  - main
+  - package-a
+  - package-b
