@@ -1,6 +1,6 @@
 private: true
 
 subPackages:
-  - main
-  - package-a
-  - package-b
+  - /main
+  - /package-a
+  - /package-b
