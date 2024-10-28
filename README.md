@@ -1,4 +1,4 @@
-[https://github.com/webpack/webpack/discussions/17176](https://github.com/webpack/webpack/discussions/17176)
+<https://github.com/webpack/webpack/discussions/17176>
 
 ### How to reproduce
 
