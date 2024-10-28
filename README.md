@@ -12,7 +12,7 @@ cd main
 # this command:
 # - installs dependencies
 # - links "package-a" and "package-b" to the "main/node_modules"
-npm i
+npm install
 
 # this command runs:
 # node --preserve-symlinks node_modules/webpack/bin/webpack.js
