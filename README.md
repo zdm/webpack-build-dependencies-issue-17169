@@ -21,7 +21,7 @@ npm run build
 
 Build is OK, but cache is not used due to the following errors:
 
-```txt
+```text
 <w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: Can't resolve 'package-b/webpack.config.js' in 'd:\projects\devel\issues\webpack-build-dependencies-issue-17169\package-a'
 <w> while resolving 'package-b/webpack.config.js' in d:\projects\devel\issues\webpack-build-dependencies-issue-17169\package-a as file
 <w>  at resolve esm file package-b/webpack.config.js
