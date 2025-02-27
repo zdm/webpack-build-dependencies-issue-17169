@@ -1,6 +1,6 @@
 releasable: false
 
 subPackages:
-    - /main
-    - /package-a
-    - /package-b
+  - /main
+  - /package-a
+  - /package-b
