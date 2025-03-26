@@ -2,7 +2,7 @@
 
 ### How to reproduce
 
-```shell
+```sh
 # clone repo
 git clone https://github.com/zdm/webpack-build-dependencies-issue-17169
 
