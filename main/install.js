@@ -1,10 +1,8 @@
 #!/usr/bin/env node
 
 import fs from "node:fs";
-import path from "node:path";
-import { fileURLToPath } from "node:url";
 
-const root = path.dirname( fileURLToPath( import.meta.url ) );
+const root = import.meta.dirname;
 
 // create symlink to "package-a" and "package-b"
 linkPackage( "package-a" );

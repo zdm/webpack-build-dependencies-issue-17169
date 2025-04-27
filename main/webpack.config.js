@@ -1,4 +1,3 @@
-import path from "node:path";
 import { fileURLToPath } from "node:url";
 import config from "package-a/webpack.config.js";
 
@@ -7,7 +6,7 @@ export default {
     "name": "main",
     "target": "web",
     "mode": "production",
-    "context": path.dirname( fileURLToPath( import.meta.url ) ),
+    "context": import.meta.dirname,
     "devtool": "eval-source-map",
     "experiments": {
         "topLevelAwait": true,
@@ -31,7 +30,7 @@ export default {
             "_configs": [
 
                 //
-                fileURLToPath( import.meta.url ),
+                import.meta.filename,
             ],
         },
     },
