@@ -1,5 +1,6 @@
 import { fileURLToPath } from "node:url";
 import config from "package-a/webpack.config.js";
+import ResolverPlugin from "./lib/resolver.js";
 
 export default {
     ...config,
@@ -37,8 +38,8 @@ export default {
 
     "resolve": {
         "extensions": [ ".js" ],
-
-        // "symlinks": false,
+        "plugins": [ new ResolverPlugin() ],
+        "symlinks": true,
     },
 
     "module": {
