@@ -4,7 +4,7 @@
 
 ```sh
 # clone repo
-git clone https://github.com/zdm/webpack-build-dependencies-issue-17169
+git clone https://github.com/softvisio/webpack-build-dependencies-issue-17169
 
 cd webpack-build-dependencies-issue-17169
 cd main

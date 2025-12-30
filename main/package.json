@@ -1,13 +1,13 @@
 {
     "private": true,
-    "homepage": "https://github.com/zdm/webpack-build-dependencies-issue-17169",
+    "homepage": "https://github.com/softvisio/webpack-build-dependencies-issue-17169",
     "bugs": {
-        "url": "https://github.com/zdm/webpack-build-dependencies-issue-17169/issues",
+        "url": "https://github.com/softvisio/webpack-build-dependencies-issue-17169/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zdm/webpack-build-dependencies-issue-17169.git",
+        "url": "git+https://github.com/softvisio/webpack-build-dependencies-issue-17169.git",
         "directory": "main"
     },
     "license": "Proprietary Software",
